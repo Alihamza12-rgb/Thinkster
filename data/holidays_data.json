@@ -1,0 +1,132 @@
+{
+  "holidaysData": [
+    {
+      "id": 1,
+      "holiday": "Kashmir Solidarity Day",
+      "date": "February 5, 2024",
+      "day": "Monday",
+      "type": "National Holiday",
+      "category": "Holiday"
+    },
+    {
+      "id": 2,
+      "holiday": "Pakistan Day",
+      "date": "March 23, 2024",
+      "day": "Saturday",
+      "type": "National Holiday",
+      "category": "Holiday"
+    },
+    {
+      "id": 3,
+      "holiday": "Eid-ul-Fitr (Day 1)",
+      "date": "April 10, 2024",
+      "day": "Wednesday",
+      "type": "Festival",
+      "category": "Holiday"
+    },
+    {
+      "id": 4,
+      "holiday": "Eid-ul-Fitr (Day 2)",
+      "date": "April 11, 2024",
+      "day": "Thursday",
+      "type": "Festival",
+      "category": "Holiday"
+    },
+    {
+      "id": 5,
+      "holiday": "Eid-ul-Fitr (Day 3)",
+      "date": "April 12, 2024",
+      "day": "Friday",
+      "type": "Festival",
+      "category": "Holiday"
+    },
+    {
+      "id": 6,
+      "holiday": "Labour Day",
+      "date": "May 1, 2024",
+      "day": "Wednesday",
+      "type": "National Holiday",
+      "category": "Holiday"
+    },
+    {
+      "id": 7,
+      "holiday": "Youm-e-Takbeer",
+      "date": "May 28, 2024",
+      "day": "Tuesday",
+      "type": "National Holiday",
+      "category": "Holiday"
+    },
+    {
+      "id": 8,
+      "holiday": "Eid-ul-Adha (Day 1)",
+      "date": "June 17, 2024",
+      "day": "Monday",
+      "type": "Festival",
+      "category": "Holiday"
+    },
+    {
+      "id": 9,
+      "holiday": "Eid-ul-Adha (Day 2)",
+      "date": "June 18, 2024",
+      "day": "Tuesday",
+      "type": "Festival",
+      "category": "Holiday"
+    },
+    {
+      "id": 10,
+      "holiday": "Eid-ul-Adha (Day 3)",
+      "date": "June 19, 2024",
+      "day": "Wednesday",
+      "type": "Festival",
+      "category": "Holiday"
+    },
+    {
+      "id": 11,
+      "holiday": "Ashura (9th Muharram)",
+      "date": "July 16, 2024",
+      "day": "Tuesday",
+      "type": "Festival",
+      "category": "Holiday"
+    },
+    {
+      "id": 12,
+      "holiday": "Ashura (10th Muharram)",
+      "date": "July 17, 2024",
+      "day": "Wednesday",
+      "type": "Festival",
+      "category": "Holiday"
+    },
+    {
+      "id": 13,
+      "holiday": "Independence Day",
+      "date": "August 14, 2024",
+      "day": "Wednesday",
+      "type": "National Holiday",
+      "category": "Holiday"
+    },
+    {
+      "id": 14,
+      "holiday": "Eid Milad-un-Nabi",
+      "date": "September 16, 2024",
+      "day": "Monday",
+      "type": "Religious Holiday",
+      "category": "Holiday"
+    },
+    {
+      "id": 15,
+      "holiday": "Iqbal Day",
+      "date": "November 9, 2024",
+      "day": "Saturday",
+      "type": "National Holiday",
+      "category": "Holiday"
+    },
+    {
+      "id": 16,
+      "holiday": "Quaid-e-Azam Day & Christmas",
+      "date": "December 25, 2024",
+      "day": "Wednesday",
+      "type": "National Holiday",
+      "category": "Holiday"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "_id": "1",
+        "img_bg": "/assets/img/grid/cricket-1.jpg",
+        "category": "Cricket",
+        "title": "Annual Cricket Day",
+        "teacher_img": "/assets/img/staff/staff-1.png",
+        "tutor_name": "Coach Ahmed Khan",
+        "date": "2024-03-05",
+        "description": "A full day of thrilling cricket matches, skill contests, and celebrations."
+    },
+    {
+        "_id": "2",
+        "img_bg": "/assets/img/grid/cricket-2.jpg",
+        "category": "Cricket",
+        "title": "Inter-School Cricket Championship",
+        "teacher_img": "/assets/img/staff/staff-3.png",
+        "tutor_name": "Muhammad Bilal",
+        "date": "2024-04-10",
+        "description": "Our school cricket team competes with top teams from across the city."
+    },
+    {
+        "_id": "3",
+        "img_bg": "/assets/img/grid/cricket-2.jpg",
+        "category": "Cricket",
+        "title": "Friendly Cricket Match",
+        "teacher_img": "/assets/img/staff/staff-3.png",
+        "tutor_name": "Imran Siddiqui",
+        "date": "2024-05-15",
+        "description": "A friendly cricket match to promote sportsmanship, unity, and team spirit."
+    },
+    {
+        "_id": "4",
+        "img_bg": "/assets/img/grid/cricket-1.jpg",
+        "category": "Cricket",
+        "title": "Inter-House Cricket Tournament",
+        "teacher_img": "/assets/img/staff/staff-5.png",
+        "tutor_name": "Hassan Raza",
+        "date": "2024-06-20",
+        "description": "Different houses compete in an exciting cricket tournament for the school trophy."
+    },
+    {
+        "_id": "5",
+        "img_bg": "/assets/img/grid/cricket-2.jpg",
+        "category": "Cricket",
+        "title": "Cricket Skills Training Camp",
+        "teacher_img": "/assets/img/staff/staff-6.png",
+        "tutor_name": "Ayesha Khan",
+        "date": "2024-07-08",
+        "description": "A dedicated cricket camp to improve batting, bowling, and fielding skills."
+    },
+    {
+        "_id": "6",
+        "img_bg": "/assets/img/grid/cricket-1.jpg",
+        "category": "Cricket",
+        "title": "State-Level Cricket Championship",
+        "teacher_img": "/assets/img/staff/staff-5.png",
+        "tutor_name": "Fahad Ali",
+        "date": "2024-08-12",
+        "description": "Our best players represent the school in a prestigious state-level cricket event."
+    }
+]

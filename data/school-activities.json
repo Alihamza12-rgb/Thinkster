@@ -1,0 +1,65 @@
+[
+  {
+      "_id": "1",
+      "img_bg": "/assets/img/campus1/cam-1.jpg",
+      "category": "Activities",
+      "title": "Mothers Day",
+      "teacher_img": "/assets/img/grid/teacher.jpg",
+      "tutor_name": "Sir Ahmed",
+      "date": "2023-10-05",
+      "description": "Student Celebrating Mothers day."
+  },
+  {
+      "_id": "2",
+      "img_bg": "/assets/img/grid/activity-3.jpg",
+      "category": "Arts",
+      "title": "welcome Party ",
+      "teacher_img": "/assets/img/staff/staff-2.png",
+      "tutor_name": "Ms. Aliya",
+      "date": "2023-09-15",
+      "description": "Khalil model School Welcome new Students"
+  },
+{
+      "_id": "3",
+      "img_bg": "/assets/img/grid/activity-6.jpg",
+      "category": "Arts",
+      "title": "welcome Party ",
+      "teacher_img": "/assets/img/staff/staff-2.png",
+      "tutor_name": "Ms. shahida",
+      "date": "2023-09-15",
+      "description": "Khalil model School Welcome new Students"
+  },
+    {
+      "_id": "4",
+      "img_bg": "/assets/img/grid/activity-4.jpg",
+      "category": "Cricket",
+      "title": "Cricket Tournament",
+            "teacher_img": "/assets/img/grid/teacher.jpg",
+
+      "tutor_name": "Sir zia",
+      "date": "2023-10-05",
+      "description": "Cricket Tournament."
+  },
+  
+  {
+      "_id": "4",
+      "img_bg": "/assets/img/grid/activity-5.jpg",
+      "category": "Cricket",
+      "title": "Cricket Tournament",
+      "teacher_img": "/assets/img/staff/staff-1.png",
+      "tutor_name": "Sir zia",
+      "date": "2023-10-05",
+      "description": "Cricket Tournament."
+  },
+  {
+      "_id": "6",
+      "img_bg": "/assets/img/grid/activity-2.jpg",
+      "category": "Activities",
+      "title": "Mothers Day",
+      "teacher_img": "/assets/img/staff/staff-1.png",
+      "tutor_name": "Sir Ahmed",
+      "date": "2023-10-05",
+      "description": "Student Celebrating Mothers day."
+  }
+  
+]

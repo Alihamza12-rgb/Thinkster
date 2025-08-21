@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unknown-property */
 import React, { useState } from "react";
 import Link from "next/link";
-import cbseGuidelinesData from "../../../data/cbse_guidelines.json"; // Ensure correct path
+// import cbseGuidelinesData from "../../../data/cbse_guidelines.json"; // Ensure correct path
 
 const CBSEGuidelines = () => {
   // State for displaying CBSE Guidelines.

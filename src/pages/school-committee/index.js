@@ -2,18 +2,18 @@ import React from "react";
 import BreadCrumb from "../../../components/common/BreadCrumb";
 import Footer from "../../../components/common/Footer";
 import Header from "../../../components/Home/Header";
-import School from "./school"
+// import SchoolCommitteeSection from "../../../components/AboutUs/SchoolCommitteeSection"; // fixed path
 import SEO from "../../../components/seo";
 
-const Register = () => {
+const SchoolCommitteePage = () => {
   return (
     <>
-      <SEO pageTitle="Sign Up" />
+      <SEO pageTitle="School Committee" />
       <Header />
-      <School />
+      {/* <SchoolCommitteeSection /> */}
       <Footer />
     </>
   );
 };
 
-export default Register;
+export default SchoolCommitteePage;

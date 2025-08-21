@@ -1,5 +1,7 @@
+/* eslint-disable @next/next/no-img-element */
 import { Swiper, SwiperSlide } from "swiper/react";
-import SwiperCore, { Pagination } from "swiper";
+import SwiperCore from "swiper";
+import { Pagination } from 'swiper/modules';
 import { useSelector } from "react-redux";
 import DetailsTabItems from "./DetailsTabItems";
 SwiperCore.use([Pagination]);

@@ -1,6 +1,8 @@
 /* eslint-disable react/no-unknown-property */
 import React, { useState } from "react";
-import { listOfBooksData } from "../../../data/listOfBooks_data.json";
+import data from '../../../data/listOfBooks_data.json';
+
+const listOfBooksData = data.listOfBooksData;
 
 function ListOfBooks() {
   const [activeItem, setActiveItem] = useState(null);

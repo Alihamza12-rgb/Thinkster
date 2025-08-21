@@ -1,6 +1,7 @@
 /* eslint-disable react/no-unknown-property */
 import React from "react";
-import { holidaysData } from "../../../data/holidays_data.json";
+import data from '../../../data/holidays_data.json';
+const holidaysData = data.holidaysData; 
 
 function HolidaysList() {
   return (

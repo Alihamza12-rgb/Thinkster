@@ -1,5 +1,4 @@
-{
-    "curriculumData": [
+[
       {
         "id": 1,
         "name": "Pre-Primary",
@@ -56,5 +55,4 @@
         "link": "#",
         "icon": "flaticon-graphic-design"
       }
-    ]
-  }
+]

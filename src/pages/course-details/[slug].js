@@ -1,6 +1,8 @@
+/* eslint-disable @next/next/no-img-element */
 import { useRouter } from "next/router";
 import { Swiper, SwiperSlide } from "swiper/react";
-import SwiperCore, { Pagination } from "swiper";
+import SwiperCore from "swiper";
+import { Pagination } from 'swiper/modules';
 SwiperCore.use([Pagination]);
 import { useDispatch, useSelector } from "react-redux";
 import Link from "next/link";

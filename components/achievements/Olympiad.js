@@ -1,6 +1,6 @@
 import React from "react";
 import StandardGrid from "../common/StandardGrid";
-// import achievementsData from "../../data/olympiad.json";
+import achievementsData from "../../data/olympiad.json";
 
 const Olympiad = () => {
   return (

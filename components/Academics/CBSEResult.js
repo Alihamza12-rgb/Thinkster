@@ -1,6 +1,6 @@
 import React from "react";
 import StandardGrid from "../common/StandardGrid";
-// import cbseResultsData from "../../data/cbseResultsData.json";
+import cbseResultsData from "../../data/cbseResultsData.json";
 
 const CBSEResultsArea = () => {
   return (

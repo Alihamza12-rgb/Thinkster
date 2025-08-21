@@ -1,6 +1,6 @@
 import React from "react";
 import StandardGrid from "../common/StandardGrid";
-// import achievementsData from "../../data/achievements.json";
+import achievementsData from "../../data/achievements.json";
 
 const AchievementsArea = () => {
   return (

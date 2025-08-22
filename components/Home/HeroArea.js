@@ -55,7 +55,7 @@ const HeroArea = () => {
             >
               {/* Background Image */}
               <div className="slider__bg slider__overlay include-bg">
-                <Image
+                <img
                   src={slider.img}
                   layout="fill"
                   objectFit="cover"

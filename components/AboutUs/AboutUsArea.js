@@ -62,7 +62,7 @@ Our campuses offer a supportive learning environment, experienced faculty, and s
                   </div>
                   {/* Additional Image */}
                   <div className="postbox__img w-img mb-45">
-                    <Image
+                    <img
                       src="/assets/img/campus1/maincam-3.jpg"
                       width={800}
                       height={450}

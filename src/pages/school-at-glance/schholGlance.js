@@ -15,7 +15,7 @@ const SchoolAtGlance = () => {
                 <h3 className="postbox__title"></h3>
                 <div className="postbox__text mb-40">
                   <p>
-                    Modern Indian School is dedicated to nurturing excellence in academics and holistic development. Our campus is a hub of innovation, creativity, and rigorous education.
+                    Modern School is dedicated to nurturing excellence in academics and holistic development. Our campus is a hub of innovation, creativity, and rigorous education.
                   </p>
                 </div>
                 <h4 className="postbox__title">Campus Overview</h4>

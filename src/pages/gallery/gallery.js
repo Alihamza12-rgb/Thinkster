@@ -54,7 +54,7 @@ export default function Gallery() {
               className="gallery-item"
               onClick={() => handleImageClick(index)}
             >
-              <Image
+              <img
                 src={image.src}
                 alt={image.alt}
                 layout="responsive"

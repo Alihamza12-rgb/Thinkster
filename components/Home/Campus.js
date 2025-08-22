@@ -92,7 +92,7 @@ const Campus = () => {
 
             <div className="col-xxl-4 col-xl-4 col-lg-6 col-md-6">
               <div className="campus__thumb w-img mb-25">
-                <Image
+                <img
                   src="/assets/img/campus1/cam-1.jpg"
                   alt="Campus Image 2"
                   layout="responsive"
@@ -104,7 +104,7 @@ const Campus = () => {
 
             <div className="col-xxl-4 col-xl-4 col-lg-6 col-md-6">
               <div className="campus__thumb w-img mb-30">
-                <Image
+                <img
                   src="/assets/img/campus1/cam-2.jpg"
                   alt="Campus Image 3"
                   layout="responsive"
@@ -116,7 +116,7 @@ const Campus = () => {
 
             <div className="col-xxl-4 col-xl-4 col-lg-6 col-md-6">
               <div className="campus__thumb w-img mb-30">
-                <Image
+                <img
                   src="/assets/img/campus1/cam-3.jpg"
                   alt="Campus Image 4"
                   layout="responsive"
@@ -128,7 +128,7 @@ const Campus = () => {
 
             <div className="col-xxl-4 col-xl-4 col-lg-6 col-md-6">
               <div className="campus__thumb w-img mb-30">
-                <Image
+                <img
                   src="/assets/img/campus1/cam-33.jpg"
                   alt="Campus Image 1"
                   layout="responsive"

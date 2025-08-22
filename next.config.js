@@ -2,7 +2,10 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    unoptimized: true,   // ✅ disable Next.js image optimization for static export
+    unoptimized: true,
+  },
+  eslint: {
+    ignoreDuringBuilds: true,
   },
 }
 

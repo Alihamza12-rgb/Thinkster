@@ -159,9 +159,9 @@ const Sidebar = ({ show, handleClose }) => {
                     <a
                       target="_blank"
                       rel="noreferrer"
-                      href="https://www.google.com/maps"
+                      href="https://maps.app.goo.gl/fREqJAf7xyaaMoDv5"
                     >
-                      12/A, Mirnada Nagpur City, MH
+                      Main Charsadda Road Budhni Pull Near Ring road Peshawar, Pakistan
                     </a>
                   </div>
                 </li>
@@ -170,7 +170,7 @@ const Sidebar = ({ show, handleClose }) => {
                     <i className="far fa-phone"></i>
                   </div>
                   <div className="offcanvas__contact-text">
-                    <a href="mailto:support@gmail.com">093898734</a>
+                    <a href="mailto:kgcpeshawar2025@gmail.com">kgcpeshawar2025@gmail.com</a>
                   </div>
                 </li>
                 <li className="d-flex align-items-center">
@@ -178,7 +178,7 @@ const Sidebar = ({ show, handleClose }) => {
                     <i className="fal fa-envelope"></i>
                   </div>
                   <div className="offcanvas__contact-text">
-                    <a href="tel:+012-345-6789">care@iqnaut.com</a>
+                    <a href="tel:+923158806457">0315 8806457</a>
                   </div>
                 </li>
               </ul>

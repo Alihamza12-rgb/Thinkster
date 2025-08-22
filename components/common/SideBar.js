@@ -45,7 +45,7 @@ const Sidebar = ({ show, handleClose }) => {
             <div className="offcanvas__logo logo">
               <Link href="/" passHref>
                 <a>
-                  <Image
+                  <img
                     src="/assets/img/logo/logo.png"
                     width={150}
                     height={50}

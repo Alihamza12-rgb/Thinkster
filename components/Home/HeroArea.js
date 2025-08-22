@@ -44,8 +44,8 @@ const HeroArea = () => {
           loop={true}
           autoplay={{ delay: 3000, disableOnInteraction: false }}
           effect="fade"
-          navigation={true} 
-          modules={[EffectFade, Autoplay, Navigation]} 
+          navigation={true}
+          modules={[EffectFade, Autoplay, Navigation]}
           className="swiper-container"
         >
           {sliderData.map((slider) => (
@@ -57,20 +57,18 @@ const HeroArea = () => {
               <div className="slider__bg slider__overlay include-bg">
                 <img
                   src={slider.img}
-                  layout="fill"
-                  objectFit="cover"
                   alt="Hero Slider"
-                  priority
+                  style={{ width: "100%", height: "100%", objectFit: "cover" }}
                 />
               </div>
               <div className="container">
                 <div className="row">
                   <div className="col-xxl-7 col-xl-8 col-lg-8 col-md-10 col-sm-10">
                     <div className="slider__content p-relative z-index-1">
-               
                       <h2 className="slider__title fs-3">{slider.title}</h2>
                       <p>
-                        We believe everyone should have the opportunity to create progress through technology.
+                        We believe everyone should have the opportunity to
+                        create progress through technology.
                       </p>
                       <div className="slider__btn">
                         <Link href="/admission" passHref>

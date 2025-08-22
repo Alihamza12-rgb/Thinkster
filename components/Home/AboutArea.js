@@ -17,7 +17,7 @@ const AboutArea = ({
           <div className="col-xxl-5 col-xl-5 col-lg-5 order-lg-2 order-1">
             <div className="about__thumb-wrapper p-relative text-center">
               <div className="about__thumb">
-                <Image
+                <img
                   src={principalImage || "/assets/img/about/about.jpg"}
                   alt={principalName || "Principal"}
                   width={400}

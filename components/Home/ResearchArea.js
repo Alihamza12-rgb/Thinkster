@@ -25,7 +25,7 @@ const ResearchArea = () => {
                   className="research__thumb mb-20"
                   style={{ position: "relative", width: "100%", height: "260px" }}
                 >
-                  <Image
+                  <img
                     src={item.img}
                     alt={item.title}
                     layout="fill"

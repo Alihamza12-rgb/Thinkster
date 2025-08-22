@@ -63,7 +63,7 @@ const Campus = () => {
 
             <div className="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
               <div className="campus__thumb w-img mb-30">
-                <Image
+                <img
                   src="/assets/img/campus1/cam-0.jpg"
                   alt="Campus Image 0"
                   layout="responsive"

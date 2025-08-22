@@ -66,7 +66,7 @@ const AchievementCard = ({ achievement }) => {
           className="achievement__thumb w-img fix course_thumb_height"
           style={{ position: "relative", width: "100%", height: "300px" }}
         >
-          <Image
+          <img
             src={achievement.image}
             alt={achievement.title}
             layout="fill"

@@ -15,14 +15,12 @@ const AboutUsArea = () => {
               <div className="postbox__item transition-3 mb-70">
                 {/* Header Image */}
                 <div className="postbox__thumb m-img">
-                  <Img
+                  <img
                     src="/assets/img/campus1/maincam-2.png"
                     width={800}
                     height={450}
-                    layout="responsive"
                     alt="About Us"
-                    priority
-                  />
+                  ></img>
                 </div>
                 <div className="postbox__content">
                   <div className="postbox__meta">

@@ -180,7 +180,7 @@ const StandardGrid = ({
                             >
                               <Link href={`#`} passHref>
                                 <a>
-                                  <Image
+                                  <img
                                     src={img_bg}
                                     alt={title}
                                     layout="fill"
@@ -201,7 +201,7 @@ const StandardGrid = ({
                                 <div className="course__tutor">
                             
                                     <a className="d-flex align-items-center">
-                                      <Image
+                                      <img
                                         src={teacher_img}
                                         alt={tutor_name}
                                         width={40}
@@ -261,7 +261,7 @@ const StandardGrid = ({
                                 >
                                   <Link href={`#`} passHref>
                                     <a>
-                                      <Image
+                                      <img
                                         src={img_bg}
                                         alt={title}
                                         layout="fill"
@@ -285,7 +285,7 @@ const StandardGrid = ({
                                       <div className="course__tutor">
                      
                                           <a className="d-flex align-items-center">
-                                            <Image
+                                            <img
                                               src={teacher_img}
                                               alt={tutor_name}
                                               width={40}

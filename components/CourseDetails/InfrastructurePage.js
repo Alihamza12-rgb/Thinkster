@@ -19,7 +19,7 @@ const InfrastructurePage = () => {
     <div className="infrastructure-container ">
       {/* Top Image Section */}
       <div className="top-image">
-        <Image
+        <img
           src="/assets/img/campus1/cam-2.jpg"
           alt="Our Infrastructure"
           width={1200}

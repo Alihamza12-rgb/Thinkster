@@ -23,7 +23,7 @@ const Footer = () => {
                       <div className="logo">
                         <Link href="/" passHref>
                           <a>
-                            <Image
+                            <img
                               src="/assets/img/logo/logo.jpg"
                               className="rounded-3"
                               alt="Your School logo"

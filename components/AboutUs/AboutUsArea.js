@@ -15,7 +15,7 @@ const AboutUsArea = () => {
               <div className="postbox__item transition-3 mb-70">
                 {/* Header Image */}
                 <div className="postbox__thumb m-img">
-                  <Image
+                  <Img
                     src="/assets/img/campus1/maincam-2.png"
                     width={800}
                     height={450}
